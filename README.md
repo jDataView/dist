@@ -1,4 +1,4 @@
-This repository contains minified latest versions of jDataView and jBinary libraries with source maps.
+This repository contains minified latest versions of [jDataView](https://github.com/jDataView/jDataView) and [jBinary](https://github.com/jDataView/jBinary) libraries with source maps.
 
 It's updated automatically by [Travis-CI](https://travis-ci.org/) on each successful build *(success == passing all tests)*.
 
